@@ -1,0 +1,14 @@
+#postcard{
+  display: none;
+  font-family: cursive;
+  margin: 20px;
+}
+
+.well {
+  height: 400px;
+}
+
+.stamp {
+  width: 100px;
+  float: right;
+}
